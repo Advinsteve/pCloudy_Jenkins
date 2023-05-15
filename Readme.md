@@ -2,7 +2,7 @@
 
 1. Need to install Node and NPM [Recomended latest version]<br><br>
 
-2. Clone the project in an empty director  
+2. Clone the project in an empty directory  
 
 2. Run the below command to install the required packages which are available in package.json  <br><br>
 
